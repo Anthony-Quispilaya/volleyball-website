@@ -1,13 +1,21 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import TopNavbar from './components/TopNavbar'
+import SideNavbar from './components/SideNavbar'
+import CreatePost from './components/CreatePost'
+import FeedPost from './components/FeedPost'
+import WeatherBox from './components/WeatherBox'
 
 function App() {
   return (
     <>
-      <div>Hello I am the website
-      </div>
+    <div className="App relative h-auto w-auto">
+      <TopNavbar />
+      <SideNavbar />
+      <CreatePost />
+      <FeedPost />
+      <WeatherBox />
+    </div>
     </>
   )
 }

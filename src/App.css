@@ -1,7 +1,10 @@
 @import "tailwindcss";
 
+
 @theme {
   --color-logo: #2C428C;
   --color-borderbox: #EFF3F4;
   --color-hover: #f3f4f6;
+  --color-activebutton: #e6e6e6;
+
 }

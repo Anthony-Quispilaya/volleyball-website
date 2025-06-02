@@ -1,8 +1,8 @@
 function CreatePost() {
     return (
-        <div className="border-1 border-borderbox  w-200 rounded-3xl gap-4 flex flex-col p-5">
+        <div className="border-1 border-borderbox bg-white w-250 rounded-3xl gap-4 flex flex-col p-5">
             <div className="flex justify-center">
-                <div className="flex w-200 p-2 rounded-3xl bg-hover focus:outline-none focus:ring-2 focus:ring-blue-500 hover:bg-gray-200">
+                <div className="flex w-full p-2 rounded-3xl bg-hover focus:outline-none focus:ring-2 focus:ring-blue-500 hover:bg-gray-200">
                     <input type="text" placeholder="Post..." className="outline-0 flex-1"/>
                 </div>
             </div>

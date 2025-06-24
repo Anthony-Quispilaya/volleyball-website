@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Marcus Robinson",
+    "lastmsg": "Hey bro are you gonna play volleyball today?",
+    "email": "marcusrobinson@gmail.com",
+    "avatar": "marcus.png"
+  },
+  {
+    "id": 2,
+    "name": "Sebastian Lopez",
+    "lastmsg": "How do I join?",
+    "email": "sebastianlopez@gmail.com",
+    "avatar": "sebastian.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anthony Quispilaya",
+    "lastmsg": "I can't wait to play with you guys today!",
+    "email": "anthonyquispilaya@gmail.com",
+    "avatar": "anthony.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Jasmine Lee",
+    "lastmsg": "Anyone bringing a speaker for music today?",
+    "email": "jasminelee@gmail.com",
+    "avatar": "jasmine.png"
+  },
+  {
+    "id": 5,
+    "name": "Oscar Mendoza",
+    "lastmsg": "My ankle’s still sore, I might just ref.",
+    "email": "oscarmendoza@gmail.com",
+    "avatar": "oscar.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Daniella Chen",
+    "lastmsg": "Bringing cold water and orange slices!",
+    "email": "daniellachen@gmail.com",
+    "avatar": "daniella.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Kaiden Garces",
+    "lastmsg": "I'm 10 footing the ball tonight on god.",
+    "email": "kaidengarces@gmail.com",
+    "avatar": "kaiden.png"
+  },
+  {
+    "id": 8,
+    "name": "Emily Nguyen",
+    "lastmsg": "Let’s do King of the Court this time!",
+    "email": "emilynguyen@gmail.com",
+    "avatar": "emily.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jose Alvarez",
+    "lastmsg": "I'll be playing libero today.",
+    "email": "josealvarez@gmail.com",
+    "avatar": "jose.jpg"
+  }
+]

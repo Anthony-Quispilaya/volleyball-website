@@ -1,0 +1,32 @@
+{
+    "1": [
+        {
+            "from": "contact",
+            "text": "Hey bro are you gonna play volleyball today?",
+            "date": "10 mins ago"
+        },
+        {
+            "from": "me",
+            "text": "Yeah, I’ll be there in 10 minutes!",
+            "date": "5 mins ago"
+        },
+        {
+            "from": "contact",
+            "text": "Awesome, see you there!",
+            "date": "1 min ago"
+        }
+    ],
+
+    "2": [
+        {
+            "from": "contact",
+            "text": "How do I join?",
+            "date": "15 mins ago"
+        },
+        {
+            "from": "me",
+            "text": "Just show up at the court, we start at 6 PM.",
+            "date": "5 mins ago"
+        }
+    ]
+}

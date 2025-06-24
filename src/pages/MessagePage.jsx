@@ -27,7 +27,7 @@ export function MessagePage() {
                                     alt={contact.name}
                                     src={contact.avatar}  
                                 />
-                                <h2>{contact.name}</h2>
+                                <h2 className="hover:cursor-pointer">{contact.name}</h2>
                             </div>
                         ) : 
                             (
